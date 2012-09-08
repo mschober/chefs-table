@@ -1,1 +1,1 @@
-This is going to be a great app for managing you recipes at home
+This is going to be a great app for managing your recipes at home
